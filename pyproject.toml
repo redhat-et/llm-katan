@@ -56,10 +56,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yossiovadia/llm-katan"
-Documentation = "https://github.com/yossiovadia/llm-katan"
-Repository = "https://github.com/yossiovadia/llm-katan.git"
-Issues = "https://github.com/yossiovadia/llm-katan/issues"
+Homepage = "https://github.com/redhat-et/llm-katan"
+Documentation = "https://github.com/redhat-et/llm-katan"
+Repository = "https://github.com/redhat-et/llm-katan.git"
+Issues = "https://github.com/redhat-et/llm-katan/issues"
 
 [project.scripts]
 llm-katan = "llm_katan.cli:main"

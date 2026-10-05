@@ -330,7 +330,7 @@ So the common split is: list the provider your agent client uses (e.g. `anthropi
 ## Development
 
 ```bash
-git clone https://github.com/yossiovadia/llm-katan.git
+git clone https://github.com/redhat-et/llm-katan.git
 cd llm-katan
 pip install -e ".[dev]"
 pytest tests/ -v
